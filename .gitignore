@@ -1,0 +1,12 @@
+# These files are ignored by git
+
+# Eclipse project files #
+#########################
+.classpath
+.project
+.settings
+
+# Build & Configuration #
+#########################
+/target
+/reports
